@@ -2,6 +2,7 @@ name: Sample
 favicon: null
 layout_spectrum: 0.9293243505526334
 typography_spectrum: 0.16951533849351108
+title: My Title
 cta:
   domain: null
   bucket: null
