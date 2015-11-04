@@ -1,0 +1,23 @@
+name: Sample
+favicon: null
+layout_spectrum: 0.9293243505526334
+typography_spectrum: 0.16951533849351108
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5283271814696491
+  lightness: 0.8473072182387114
+  saturation: 0.23114014766179025
+  rhythmicContrast: 0.3023160370066762
+purpose: []
