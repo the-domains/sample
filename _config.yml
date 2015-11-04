@@ -1,7 +1,7 @@
 name: Sample
 favicon: null
-layout_spectrum: 0.87902
-typography_spectrum: 0.16951533849351108
+layout_spectrum: 1
+typography_spectrum: 0.74232
 title: My Title
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#dceaf5'
     - '#126a80'
   brandStrength: 0.5
-  lightness: 0.8473072182387114
-  saturation: 0.23114014766179025
-  rhythmicContrast: 0.3023160370066762
+  lightness: 0.75
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
